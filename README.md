@@ -1,6 +1,6 @@
-# 👋🏼 Heeey! Welcome to my GitHub Profile
+# 👋🏼 Heeey! Welcome!
 
-Feel free to get in touch with me anytime 😁
+Feel free to get in touch with me 😁
 
 ## Contact and Social Media
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/soaresmilton/)](https://www.linkedin.com/in/soaresmilton/)
@@ -23,7 +23,7 @@ Besides being passionate about codes and programming languages, I love RPG games
 
 <div align="center" >
   
-  [![MILTON SOARES github stats](https://github-readme-stats.vercel.app/api?username=milton-moares-ey&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-moares-ey&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  [![MILTON SOARES github stats](https://github-readme-stats.vercel.app/api?username=milton-moraes-ey&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milton-moraes-ey&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
